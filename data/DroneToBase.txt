@@ -1,0 +1,30 @@
+
+Tue Jun 10 18:35:28 2025
+ Coordinate Seguite: 
+	Latitudine: 50.000000, longitudine: 30.000000
+	Latitudine: 80.000000, longitudine: 100.000000
+	Latitudine: 80.000000, longitudine: 100.000000
+
+Tue Jun 10 18:35:29 2025
+ Coordinate Seguite: 
+	Latitudine: 50.000000, longitudine: 30.000000
+	Latitudine: 80.000000, longitudine: 100.000000
+	Latitudine: 80.000000, longitudine: 100.000000
+
+Tue Jun 10 18:35:51 2025
+ Coordinate Seguite: 
+	Latitudine: 50.000000, longitudine: 30.000000
+	Latitudine: 80.000000, longitudine: 100.000000
+	Latitudine: 80.000000, longitudine: 100.000000
+
+Tue Jun 10 18:37:42 2025
+ Coordinate Seguite: 
+	Latitudine: 50.000000, longitudine: 30.000000
+	Latitudine: 80.000000, longitudine: 100.000000
+	Latitudine: 80.000000, longitudine: 100.000000
+
+Tue Jun 10 18:38:14 2025
+ Coordinate Seguite: 
+	Latitudine: 50.000000, longitudine: 30.000000
+	Latitudine: 80.000000, longitudine: 100.000000
+	Latitudine: 80.000000, longitudine: 100.000000

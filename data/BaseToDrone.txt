@@ -1,0 +1,5 @@
+Nuove coordinate da seguire:
+
+Latitudine: 10.000000, longitudine: 20.000000
+Latitudine: 20.000000, longitudine: 30.000000
+Latitudine: 40.000000, longitudine: 50.000000
